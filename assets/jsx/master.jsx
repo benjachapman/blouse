@@ -1,7 +1,6 @@
 window.$ = require('jquery');
 var React = require('react');
 var randomcolor = require("randomcolor");
-require("velocity-animate");
 var Page = require("./Page.jsx");
 var Greenie = require("./pages/greenie.jsx")
 var Bluey = require("./pages/bluey.jsx")
